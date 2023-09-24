@@ -1,4 +1,4 @@
-<h1 align="center"> Daniel Nascimento </h1>
+<h1 align="center"> Daniel Nascimento</h1>
 
 <div align="center">
 <b>Estudante | Android Developer</b>
