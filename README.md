@@ -26,7 +26,7 @@
 <details closed>
 <summary> <b> Sobre mim 👈 </b></summary>
 <br>
-Estudante de Análise e Desenvolvimento de Sistemas, movido pelo desejo de conquistar a primeira oportunidade na área de desenvolvimento Android Nativo ou Front-end. Apaixonado por música e artes visuais.
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Android.
  
 <br>
 <br>
